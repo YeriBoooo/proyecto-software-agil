@@ -1,0 +1,30 @@
+# filepath: .gitignore
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Variables de entorno
+.env
+.env.*
+
+# Node.js y Next.js
+node_modules/
+.next/
+out/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Bases de datos locales
+*.sqlite3

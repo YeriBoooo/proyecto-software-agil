@@ -1,4 +1,4 @@
-# Manifiesto Agil y Aplicacion al Proyecto
+# Manifiesto Ágil y Aplicación al Proyecto
 
 Referencia oficial: [Manifiesto para el Desarrollo Agil de Software](https://agilemanifesto.org/iso/es/manifesto.html).
 
@@ -18,40 +18,40 @@ Los elementos de la derecha tienen valor, pero se priorizan los de la izquierda 
 3. Entregar software funcionando frecuentemente, con preferencia por periodos cortos.
 4. Trabajar juntos diariamente, negocio y desarrollo, durante todo el proyecto.
 5. Construir proyectos alrededor de personas motivadas, proporcionarles apoyo y confiar en ellas.
-6. Favorecer la conversacion cara a cara como medio mas eficiente de comunicacion.
+6. Favorecer la conversación cara a cara como medio más eficiente de comunicación.
 7. Considerar el software funcionando como la medida principal de progreso.
 8. Mantener un ritmo de trabajo sostenible de forma indefinida.
-9. Cuidar continuamente la excelencia tecnica y el buen diseno para aumentar la agilidad.
+9. Cuidar continuamente la excelencia técnica y el buen diseño para aumentar la agilidad.
 10. Buscar la simplicidad, es decir, maximizar el trabajo que no es necesario realizar.
-11. Permitir que las mejores arquitecturas, requisitos y disenos surjan de equipos autoorganizados.
-12. Reflexionar periodicamente sobre como ser mas efectivos y ajustar el comportamiento en consecuencia.
+11. Permitir que las mejores arquitecturas, requisitos y diseños surjan de equipos autoorganizados.
+12. Reflexionar periódicamente sobre cómo ser más efectivos y ajustar el comportamiento en consecuencia.
 
-## 3. Aplicacion de tres principios al comercio electronico
+## 3. Aplicación de tres principios al comercio electrónico
 
 | Principio | Aplicacion concreta |
 | --- | --- |
-| Entrega frecuente | Cada sprint de dos semanas termina con una version usable. Se planifican productos, carrito y pedidos como incrementos sucesivos. |
-| Aceptacion del cambio | Una solicitud de pasarela de pagos se agrega y prioriza en el backlog para un sprint posterior, sin reiniciar lo ya construido. |
-| Software funcionando | La revision del sprint demuestra codigo ejecutable y probado. Completar documentos o marcar tareas no sustituye una funcionalidad utilizable. |
+| Entrega frecuente | Cada sprint de dos semanas termina con una versión usable. Se planifican productos, carrito y pedidos como incrementos sucesivos. |
+| Aceptación del cambio | Una solicitud de pasarela de pagos se agrega y prioriza en el backlog para un sprint posterior, sin reiniciar lo ya construido. |
+| Software funcionando | La revisión del sprint demuestra código ejecutable y probado. Completar documentos o marcar tareas no sustituye una funcionalidad utilizable. |
 
-## 4. Analisis
+## 4. Análisis
 
-### Por que las metodologias tradicionales tienen dificultades en proyectos de innovacion
+### ¿Por qué las metodologías tradicionales tienen dificultades en proyectos de innovación?
 
-Porque intentan fijar alcance, calendario y solucion antes de contar con suficiente aprendizaje. En un proyecto innovador, las hipotesis se validan durante el desarrollo y aparecen cambios por tecnologia, competencia o usuarios. Un proceso secuencial puede convertir esos descubrimientos en retrabajo costoso y retrasar la entrega de valor.
+Las metodologías tradicionales tienen dificultades porque intentan fijar alcance, calendario y solución antes de contar con suficiente aprendizaje. En un proyecto innovador, las hipótesis se validan durante el desarrollo y aparecen cambios por tecnología, competencia o usuarios. Un proceso secuencial puede convertir esos descubrimientos en retrabajo costoso y retrasar la entrega de valor. Además, el cliente puede recibir el producto demasiado tarde para comprobar si la idea respondía a una necesidad real.
 
-### Valor mas dificil de aplicar
+### ¿Cuál de los 4 valores del Manifiesto consideras más difícil de aplicar y por qué?
 
-La **colaboracion con el cliente sobre la negociacion contractual** suele ser la mas dificil. Requiere que el cliente tenga tiempo para revisar incrementos y que ambas partes gestionen el contrato como un marco de colaboracion, no como una barrera para aprender. Sin una persona disponible para decidir y validar, el equipo pierde la retroalimentacion que hace posible la agilidad.
+Considero que la **colaboración con el cliente sobre la negociación contractual** suele ser la más difícil. Requiere que el cliente tenga tiempo para revisar incrementos y que ambas partes gestionen el contrato como un marco de colaboración, no como una barrera para aprender. También exige confianza para aceptar que el alcance puede evolucionar sin interpretar cada cambio como un incumplimiento. Sin una persona disponible para decidir y validar, el equipo pierde la retroalimentación que hace posible la agilidad.
 
-### Agilidad y documentacion
+### ¿Significa ser ágil que se prescinde totalmente de la documentación? Argumenta.
 
-Ser agil no significa prescindir de la documentacion. Significa producir la documentacion necesaria para comunicar, operar, mantener y cumplir normas, manteniendola proporcional al valor que aporta. En un software medico, por ejemplo, la trazabilidad y las evidencias son obligatorias; en todos los casos, el documento no debe reemplazar la validacion del software funcionando.
+Ser ágil no significa prescindir totalmente de la documentación. Significa producir la documentación necesaria para comunicar, operar, mantener y cumplir normas, manteniéndola proporcional al valor que aporta. Por ejemplo, una historia de usuario, una decisión de arquitectura y una guía de despliegue pueden evitar errores y facilitar la continuidad del equipo. En un software médico, además, la trazabilidad y las evidencias son obligatorias; en todos los casos, el documento no debe reemplazar la validación del software funcionando.
 
-### Cuando elegir una metodologia tradicional
+### ¿En qué escenario seguirías eligiendo una metodología tradicional?
 
-Elegiria Cascada cuando los requisitos fueran estables, el alcance estuviera regulado o el coste de cambiar despues de la aprobacion fuera muy alto. Tambien seria razonable cuando existieran dependencias contractuales o de hardware que exigieran una planificacion y una secuencia formal, siempre incorporando revisiones de calidad.
+Seguiría eligiendo Cascada cuando los requisitos fueran estables, el alcance estuviera regulado o el coste de cambiar después de la aprobación fuera muy alto. Un ejemplo sería un sistema médico o industrial sometido a certificaciones, donde se necesitan trazabilidad, evidencias y revisiones formales antes de avanzar. También sería razonable cuando existieran dependencias contractuales o de hardware que exigieran una planificación y una secuencia formal. Incluso en ese contexto incorporaría revisiones frecuentes para detectar errores sin perder el control documental.
 
-## 5. Conclusion
+## 5. Conclusión
 
-La metodologia debe elegirse segun la incertidumbre, el riesgo y las obligaciones del proyecto. Cascada aporta control cuando el contexto es estable; Scrum favorece el aprendizaje y la entrega continua en el comercio electronico; y un enfoque hibrido equilibra adaptabilidad y cumplimiento en el software medico.
+La metodología debe elegirse según la incertidumbre, el riesgo y las obligaciones del proyecto. Cascada aporta control cuando el contexto es estable; Scrum favorece el aprendizaje y la entrega continua en el comercio electrónico; y un enfoque híbrido equilibra adaptabilidad y cumplimiento en el software médico.

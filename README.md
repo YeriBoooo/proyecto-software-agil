@@ -6,8 +6,8 @@ Repositorio de la práctica de Ingeniería de Software II sobre metodologías á
 
 ## Estructura
 
-- `backend/`: API desarrollada con FastAPI.
-- `frontend/`: Interfaz desarrollada con Next.js.
+- `backend/`: Estructura prevista para una API con FastAPI.
+- `frontend/`: Estructura prevista para una interfaz con Next.js.
 - `docs/`: Documentación y análisis de la práctica.
 
 ## Arquitectura

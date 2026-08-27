@@ -28,6 +28,11 @@ Base de Datos PostgreSQL
 - [Manifiesto Ágil](docs/manifiesto.md)
 - [Arquitectura del sistema](docs/arquitectura.md)
 
+## Integrantes
+
+- Geraldine Daniela Rojas Villegas
+- David Adrian Lucano Nieves
+
 ## Repositorio
 
 https://github.com/YeriBoooo/proyecto-software-agil
